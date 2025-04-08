@@ -1,0 +1,17 @@
+body {
+  padding-top: 15px;
+}
+
+.challenge-completed {
+  text-decoration: line-through;
+  color: #6c757d;
+}
+
+.challenge-incomplete {
+  text-decoration: none;
+  color: inherit;
+}
+
+.custom-confirmation-modal .modal-footer {
+  border-top: none;
+}
