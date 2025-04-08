@@ -184,3 +184,15 @@ bower_components
 psd
 thumb
 sketch
+challenge_app_backend/.idea/compiler.xml
+challenge_app_backend/.idea/dataSources.xml
+challenge_app_backend/.idea/diff-generator.xml
+challenge_app_backend/.idea/encodings.xml
+challenge_app_backend/.idea/jarRepositories.xml
+challenge_app_backend/.idea/jpb-settings.xml
+challenge_app_backend/.idea/misc.xml
+challenge_app_backend/.idea/sqldialects.xml
+challenge_app_backend/.idea/vcs.xml
+challenge_app_backend/src/test/java/org/challenge/challengeapp/ChallengeAppApplicationTests.java
+challenge_app_frontend/eslint.config.js
+challenge_app_frontend/icon/about.txt
