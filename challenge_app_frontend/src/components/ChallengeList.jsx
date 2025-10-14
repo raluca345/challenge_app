@@ -127,13 +127,13 @@ function ChallengeList() {
   };
 
   const confirmDelete = (id) => {
-    setChallengeToDelete(id); // Set the challenge to delete
-    setShowModal(true); // Show the confirmation modal
+    setChallengeToDelete(id);
+    setShowModal(true);
   };
 
   const handleCancelDelete = () => {
-    setShowModal(false); // Close the modal
-    setChallengeToDelete(null); // Reset the challenge to delete
+    setShowModal(false);
+    setChallengeToDelete(null);
   };
 
   const handleCompletionStatusChange = (event) => {
